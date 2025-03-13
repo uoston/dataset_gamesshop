@@ -1,6 +1,6 @@
 
 
-# CARACTERISTICAS
+# Caracteríticas
 
 - A empresa foca apenas na fabricação de consoles, deixando a distribuição e venda para terceiros
 - Os produtos são vendidos globalemente
